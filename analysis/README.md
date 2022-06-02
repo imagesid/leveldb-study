@@ -1,7 +1,7 @@
 # Topic
 ## 1. Compaction
-- PickCompaction, DoCompaction
 - Policy: Leveled, Tiered
+- Compaction Trigger
 - Merge Iterator
 
 ## 2. WAL
