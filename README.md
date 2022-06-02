@@ -20,8 +20,8 @@
 |Week 3|22-07-18|LevelDB Analysis 1|||
 |Week 4|22-07-25|LevelDB Analysis 2|||
 |Week 5|22-08-01|LevelDB Analysis 3|||
-|Week 6|22-08-08|Real-World Workload Optimization 1|||
-|Week 7|22-08-15|Real-World Workload Optimization 2|||
+|Week 6|22-08-08|LevelDB Analysis 4|||
+|Week 7|22-08-15|Real-World Workload Optimization|||
 |Week 8|22-08-22|New Idea Implementation 1|||
 |Week 9|22-08-29|New Idea Implementation 2|||
 
