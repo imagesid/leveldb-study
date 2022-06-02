@@ -1,7 +1,7 @@
 # DKU_2022_LevelDB_Study
 2022 [DKU System Softeware Lab](https://sslab.dankook.ac.kr/) LevelDB Study
 
-## The Goal
+## Goals
 * Analyze and doucument LevelDB
 * Optimize LevelDB for real-world workload
 * Implement new ideas on LevelDB
