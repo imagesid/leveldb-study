@@ -4,7 +4,7 @@
 ## The Goal
 * Analysis LevelDB
 * Optimize LevelDB for real-world workload
-* LevelDB implementation
+* New idea implementation on LevelDB
 
 ## Members
 * Student:
@@ -17,7 +17,7 @@
 |--|--|--|
 |Week 1 ~ 2|LevelDB Introduction|Min-guk Choi|
 |Week 2 ~ 5|LevelDB Analysis||
-|Week 6 ~ 7|Real-World Optimization||
+|Week 6 ~ 7|Real-World Workload Optimization||
 |Week 8 ~ 9|New Idea Implementation||
 
 ## References
