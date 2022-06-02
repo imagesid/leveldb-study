@@ -2,14 +2,19 @@
 
 ## LevelDB Options
 ``` c++
+// ---------------------------Restriction----------------------------
+// max_memory size (= write_buffer_size*2 + block_cache_size) <= 1GB
+// max_file_size = write_buffer_size
+// Do not change other options except below.
+// ------------------------------------------------------------------
+
 // Memtable
-size_t write_buffer_size = 4 * 1024 * 1024;
+size_t write_buffer_size = 4 * 1024 * 1024; 
 
 // SST
 size_t max_file_size = 2 * 1024 * 1024;
 size_t block_size = 4 * 1024;
 int block_restart_interval = 16;
-int max_open_files = 1000;
 
 // Compression
 CompressionType compression = kSnappyCompression;
@@ -21,6 +26,8 @@ const FilterPolicy* filter_policy = nullptr;
 Cache* block_cache = nullptr;
 bool fill_cache = true;
 ```
+
+
 
 ## Day 1: YCSB
  The goal of the Yahoo Cloud Serving Benchmark (YCSB) project is to develop a framework and common set of workloads for evaluating the performance of different "key-value" and "cloud" serving stores. 
