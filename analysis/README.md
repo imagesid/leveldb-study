@@ -5,8 +5,8 @@
 - Merge Iterator
 
 ## 2. WAL
-- Flush
-- Recovery
+- Log structure
+- Flush, Recovery
 - Operations: Put
 
 ## 3. Memtable
