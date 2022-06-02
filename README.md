@@ -26,15 +26,15 @@
   - [Microsoft Research, 『Scaling Write-Intensive Key-Value Stores』, 2019](https://www.youtube.com/watch?v=b6SI8VbcT4w)
   - [GL Tech Tutorials, 『LSM trees』, 2021](https://youtube.com/playlist?list=PLRNjlOFk-f0lJJZVoSAmcwZgVtp64tXaX)
 * Documents
+  - [LevelDB library documentation](https://github.com/google/leveldb/blob/main/doc/index.md)
+  - [RocksDB WiKi](https://github.com/facebook/rocksdb/wiki)
   - [Fenggang Wu, 『LevelDB Introduction』, Universuty of Minnesota CSci5980, 2016](https://www-users.cselabs.umn.edu/classes/Spring-2020/csci5980/index.php?page=presentation)
   - [rjl493456442, 『leveldb-handbook』, 2022](https://github.com/rjl493456442/leveldb-handbook)
-  - [LevelDB library documentation](https://github.com/google/leveldb/blob/main/doc/index.md)
-  - [RocksDB Wiki](https://github.com/facebook/rocksdb/wiki)
-* Analysis Tools
-  - [understand](https://licensing.scitools.com/download)
-  - [uftrace](https://github.com/namhyung/uftrace)
 * Real-World Workload
   - [Twitter cache trace](https://github.com/twitter/cache-trace)
   - [Facebook ZippyDB](https://github.com/facebook/rocksdb/wiki/RocksDB-Trace%2C-Replay%2C-Analyzer%2C-and-Workload-Generation)
+* Analysis Tools
+  - [understand](https://licensing.scitools.com/download)
+  - [uftrace](https://github.com/namhyung/uftrace)
 * Previous Study
   - [DKU RocksDB Festival, 2021](https://github.com/DKU-StarLab/RocksDB_Festival)
