@@ -15,8 +15,8 @@
 ## Schedule
 |No|Date|Contents||
 |--|--|--|--|
-|Week 1|22-07-04|LevelDB Introduction|Min-guk Choi|
-|Week 2|22-07-11|LevelDB Basic Operations|Min-guk Choi|
+|Week 1|22-07-04|LevelDB Introduction 1|Min-guk Choi|
+|Week 2|22-07-11|LevelDB Introduction 2|Min-guk Choi|
 |Week 3|22-07-18|LevelDB Analysis 1|||
 |Week 4|22-07-25|LevelDB Analysis 2|||
 |Week 5|22-08-01|LevelDB Analysis 3|||
