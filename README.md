@@ -16,15 +16,10 @@
 ## Schedule
 |Date|Contents|Presenter|
 |--|--|--|
-|22-07-04|LevelDB Study 1|Min-guk Choi|
-|22-07-11|LevelDB Study 2|Min-guk Choi|
-|22-07-18|LevelDB Analysis 1||
-|22-07-25|LevelDB Analysis 2||
-|22-08-01|LevelDB Analysis 3||
-|22-08-08|Real-World Optimization 1||
-|22-08-15|Real-World  Optimization 2||
-|22-08-22|New Idea Implementation 1||
-|22-08-29|New Idea Implementation 2||
+|Week 1 ~ 2|LevelDB Study|Min-guk Choi|
+|Week 2 ~ 5|LevelDB Analysis|Min-guk Choi|
+|Week 6 ~ 7|Real-World Optimization||
+|Week 8 ~ 9|New Idea Implementation||
 
 ## References
 * Lecture
