@@ -13,7 +13,7 @@
 * Professor: [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/), [Seehwan Yoo](https://sites.google.com/site/dkumobileos/members/seehwanyoo)
 
 ## Schedule
-|Date|Contents|Presenter||
+|No|Date|Contents||
 |--|--|--|--|
 |Week 1|22-07-04|LevelDB Introduction|Min-guk Choi|
 |Week 2|22-07-11|LevelDB Basic Operations|Min-guk Choi|
@@ -23,7 +23,7 @@
 |Week 6|22-08-08|Real-World Workload Optimization 1|||
 |Week 7|22-08-15|Real-World Workload Optimization 2|||
 |Week 8|22-08-22|New Idea Implementation 1|||
-|Week 9|22-08-22|New Idea Implementation 2|||
+|Week 9|22-08-29|New Idea Implementation 2|||
 
 ## References
 * Lecture
