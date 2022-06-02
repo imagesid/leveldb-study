@@ -1,23 +1,22 @@
-# LevelDB-Analysis
+# LevelDB-Study
+2022 [DKU System Softeware Lab](https://sslab.dankook.ac.kr/) LevelDB Study
 
 ## The Goal
-* LevelDB analysis git-book
-* LevelDB optimization for real-world workload
-  - [Twitter cache trace](https://github.com/twitter/cache-trace)
-  - [Facebook ZippyDB](https://github.com/facebook/rocksdb/wiki/RocksDB-Trace%2C-Replay%2C-Analyzer%2C-and-Workload-Generation)
+* Analysis LevelDB
+* Optimize LevelDB for real-world workload
 * LevelDB implementation
 
 ## Members
 * Student:
-* Assistant: Min-guk Choi
+* Assistant: [Min-guk Choi](https://github.com/korea-choi)
 * Senior Assistant: Sounghyoun Lee, Hojin Shin
 * Professor: [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/), [Seehwan Yoo](https://sites.google.com/site/dkumobileos/members/seehwanyoo)
 
 ## Schedule
 |Date|Contents|Presenter|
 |--|--|--|
-|Week 1 ~ 2|LevelDB Study|Min-guk Choi|
-|Week 2 ~ 5|LevelDB Analysis|Min-guk Choi|
+|Week 1 ~ 2|LevelDB Introduction|Min-guk Choi|
+|Week 2 ~ 5|LevelDB Analysis||
 |Week 6 ~ 7|Real-World Optimization||
 |Week 8 ~ 9|New Idea Implementation||
 
@@ -34,3 +33,8 @@
 * Analysis Tools
   - [understand](https://licensing.scitools.com/download)
   - [uftrace](https://github.com/namhyung/uftrace)
+* Real-World Workload
+  - [Twitter cache trace](https://github.com/twitter/cache-trace)
+  - [Facebook ZippyDB](https://github.com/facebook/rocksdb/wiki/RocksDB-Trace%2C-Replay%2C-Analyzer%2C-and-Workload-Generation)
+* Previous Study
+  - [DKU RocksDB Festival, 2021](https://github.com/DKU-StarLab/RocksDB_Festival)
