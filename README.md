@@ -23,7 +23,7 @@
 |Week 6|22-08-08|LevelDB Analysis 3||
 |Week 7|22-08-15|Real-World Workload Optimization 2|Twitter Trace|
 |Week 8|22-08-22|New Idea Implementation 1||
-|Week 9|22-08-29|New Idea Implementation 2||
+|Week 9|22-08-29|New Idea Implementation 2|Write (bachelor) research paper|
 
 ## References
 * Lecture
