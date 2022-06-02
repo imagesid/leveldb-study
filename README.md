@@ -2,23 +2,28 @@
 2022 [DKU System Softeware Lab](https://sslab.dankook.ac.kr/) LevelDB Study
 
 ## The Goal
-* Analysis LevelDB
+* Analyze and doucument LevelDB
 * Optimize LevelDB for real-world workload
-* New idea implementation on LevelDB
+* Implement new ideas on LevelDB
 
 ## Members
 * Student:
 * Assistant: [Min-guk Choi](https://github.com/korea-choi)
-* Senior Assistant: Sounghyoun Lee, Hojin Shin
+* Senior Assistant: [Sounghyoun Lee](https://github.com/shl812), [Hojin Shin](https://github.com/shinhojin)
 * Professor: [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/), [Seehwan Yoo](https://sites.google.com/site/dkumobileos/members/seehwanyoo)
 
 ## Schedule
-|Date|Contents|Presenter|
-|--|--|--|
-|Week 1 ~ 2|LevelDB Introduction|Min-guk Choi|
-|Week 2 ~ 5|LevelDB Analysis||
-|Week 6 ~ 7|Real-World Workload Optimization||
-|Week 8 ~ 9|New Idea Implementation||
+|Date|Contents|Presenter||
+|--|--|--|--|
+|Week 1|22-07-04|LevelDB Introduction|Min-guk Choi|
+|Week 2|22-07-11|LevelDB Basic Operations|Min-guk Choi|
+|Week 3|22-07-18|LevelDB Analysis 1|||
+|Week 4|22-07-25|LevelDB Analysis 2|||
+|Week 5|22-08-01|LevelDB Analysis 3|||
+|Week 6|22-08-08|Real-World Workload Optimization 1|||
+|Week 7|22-08-15|Real-World Workload Optimization 2|||
+|Week 8|22-08-22|New Idea Implementation 1|||
+|Week 9|22-08-22|New Idea Implementation 2|||
 
 ## References
 * Lecture
