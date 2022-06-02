@@ -4,7 +4,7 @@
 ## Goals
 * Analyze and doucument LevelDB
 * Optimize LevelDB for real-world workload
-* Implement new ideas on LevelDB
+* Implement new ideas from papers on LevelDB
 
 ## Members
 * Student:
