@@ -7,7 +7,7 @@
 6. Draw figures to organize the structure, code flow and etc. 
 7. Write a english markdown document with figure and description.
 8. Make a PPT for 15 min presentation.  
-9. Upload your markdown document and PPT(pdf format).
+9. Upload your document and PPT(pdf format).
 
 # Topic
 ## 1. Compaction
