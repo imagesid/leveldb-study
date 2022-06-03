@@ -26,7 +26,11 @@ const FilterPolicy* filter_policy = nullptr;
 Cache* block_cache = nullptr;
 bool fill_cache = true;
 ```
-
+## LevelDB tunning contest for real-world workload.
+1. Study above db options, relationships between them.
+2. Study and Analyze workload such as key/value size, key distribution and operation distribution.
+3. Run workload with various options.
+4. 
 
 
 ## Day 1: YCSB
