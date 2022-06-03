@@ -4,7 +4,7 @@
 ``` c++
 // ---------------------------Restriction----------------------------
 // max_memory size (= write_buffer_size*2 + block_cache_size) <= 1GB
-// max_file_size = write_buffer_size
+// max_file_size <= 1GB
 // Do not change other options except below.
 // ------------------------------------------------------------------
 
