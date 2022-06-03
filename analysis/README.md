@@ -1,3 +1,14 @@
+# How to analyze open source
+1. Choose your topic.
+2. Read documents, watch lecture and google your topic.
+3. Study remarks and codes.
+4. Try static analytics tools like scitools understand.
+5. Run db_bench with gdb debugger or dynamic analyics tool like uftrace.
+6. Draw figures to organize the structure, code flow and etc. 
+7. Write a english markdown document with figure and description.
+8. Make a PPT for 15 min presentation.  
+9. Upload your markdown document and PPT(pdf format).
+
 # Topic
 ## 1. Compaction
 - Policy: Leveled, Tiered
