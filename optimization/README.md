@@ -1,13 +1,27 @@
 # Optimize LevelDB Options for Real-World Workload
 
-## LevelDB Options
+## LevelDB options tuning contest for real-world workload
+1. Study below db options and relationships between them.
+2. Analyze workload such as key/value size, key/operations distribution.
+3. Hypothesize best option set and verify it by experiment.
+4. Submit best option set to assistant.
+5. Write a document about your hypothesis, experiment and final decision.
+6. Prepare 15-min presentation and upload your PPT in pdf format.
+* Please refer to LevelDB options.h and RocksDB tunning guide before you start!
+  - [LevelDB include/leveldb/options.h](https://github.com/google/leveldb/blob/main/include/leveldb/options.h)
+  - [RocksDB Tuning Guide](https://github.com/facebook/rocksdb/wiki/RocksDB-Tuning-Guide)
+  - [RocksDB Setup Options and Basice Tuning](https://github.com/facebook/rocksdb/wiki/Setup-Options-and-Basic-Tuning)
+
+
+## LevelDB options and restrictions
 ``` c++
 // ---------------------------Restriction----------------------------
 // max_memory size (= write_buffer_size*2 + block_cache_size) <= 1GB
 // max_file_size <= 1GB
 // Do not change other options except below.
-// ------------------------------------------------------------------
 
+
+// -------------LevelDB Default Options, Tune them!------------------
 // Memtable
 size_t write_buffer_size = 4 * 1024 * 1024; 
 
@@ -26,14 +40,6 @@ const FilterPolicy* filter_policy = nullptr;
 Cache* block_cache = nullptr;
 bool fill_cache = true;
 ```
-## LevelDB tunning contest for real-world workload.
-1. Study above db options and relationships between them.
-2. Analyze workload such as key/value size, key/operations distribution.
-3. Hypothesize best option set and verify it by experiment.
-4. Submit best option set to assistant.
-5. Write a document about your hypothesis, experiment and final decision.
-6. Prepare 15-min presentation and upload your PPT in pdf format.
-
 
 ## Day 1: YCSB
  The goal of the Yahoo Cloud Serving Benchmark (YCSB) project is to develop a framework and common set of workloads for evaluating the performance of different "key-value" and "cloud" serving stores. 
