@@ -44,7 +44,10 @@ bool fill_cache = true;
 ## Day 1: YCSB
  The goal of the Yahoo Cloud Serving Benchmark (YCSB) project is to develop a framework and common set of workloads for evaluating the performance of different "key-value" and "cloud" serving stores. 
 * [Cooper, Brian F., et al. "Benchmarking cloud serving systems with YCSB." Proceedings of the 1st ACM symposium on Cloud computing. 2010.](https://dl.acm.org/doi/abs/10.1145/1807128.1807152)
-
+#### Contest Workload
+* load A -> run A -> run D -> run E
+#### Criteria For Evaluation
+* total execution time
 
 ## Day 2: Twitter Cache Trace
 This repository describes the traces from Twitter's in-memory caching ([Twemcache](https://github.com/twitter/twemcache)/[Pelikan](https://github.com/twitter/pelikan)) clusters. The current traces were collected from 54 clusters in Mar 2020. The traces are one-week-long. 
