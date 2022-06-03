@@ -7,7 +7,13 @@
 * [Implement new ideas from papers on LevelDB.](./new_implementation/README.md)
 
 ## Members
-* Student:
+* Student
+1. Memtable:
+2. WAL:
+3. Compaction:
+4. SSTable:
+5. Bloom Filiter:
+6. Cache:
 * Assistant: [Min-guk Choi](https://github.com/korea-choi)
 * Senior Assistant: [Sounghyoun Lee](https://github.com/shl812), [Hojin Shin](https://github.com/shinhojin)
 * Professor: [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/), [Seehwan Yoo](https://sites.google.com/site/dkumobileos/members/seehwanyoo)
