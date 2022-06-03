@@ -27,10 +27,12 @@ Cache* block_cache = nullptr;
 bool fill_cache = true;
 ```
 ## LevelDB tunning contest for real-world workload.
-1. Study above db options, relationships between them.
-2. Study and Analyze workload such as key/value size, key distribution and operation distribution.
-3. Run workload with various options.
-4. 
+1. Study above db options and relationships between them.
+2. Analyze workload such as key/value size, key/operations distribution.
+3. Hypothesize best option set and verify it by experiment.
+4. Submit best option set to assistant.
+5. Write a document about your hypothesis, experiment and final decision.
+6. Prepare 15-min presentation and upload your PPT in pdf format.
 
 
 ## Day 1: YCSB
