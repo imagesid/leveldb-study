@@ -14,6 +14,7 @@
 - Policy: Leveled, Tiered
 - Compaction Trigger
 - Merge Iterator
+- Operations: Put
 
 ## 2. WAL
 - Log structure
@@ -30,12 +31,12 @@
 - SST file format
 - Index/Data Block format
 - Two Level Iterator
-- Operations: Get, Seek
+- Operations: Put, Get, Seek
 
 ## 5. Bloom Filiter
 - Bloom Filiter Structure
 - Flush, Compaction
-- Operations: Get, Seek
+- Operations: Put, Get, Seek
 
 ## 6. Cache
 - Cache Structure
