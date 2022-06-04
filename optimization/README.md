@@ -1,7 +1,7 @@
 # Optimize LevelDB Options for Real-World Workload
 
 ## LevelDB options tuning contest for real-world workload
-1. Study below db options and relationships between them.
+1. Study below db options and relationships between themselves.
 2. Analyze workload such as key/value size, key/operations distribution.
 3. Hypothesize best option set and verify it by experiment.
 4. Submit best option set to assistant.
